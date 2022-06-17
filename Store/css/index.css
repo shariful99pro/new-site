@@ -114,6 +114,9 @@ label #btn, label #cancel{
     height: 500px;
     background-image: url(4.jpg);
     color: rgb(255, 255, 255);
+    background-image: url(/4.jpg);
+    background-image: url(..4.jpg);
+    background-image: url(.4.jpg);
     font-size: 16px;
     padding-left: 80px;
     background-repeat: no-repeat;
